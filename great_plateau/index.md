@@ -7,4 +7,4 @@ List of the shrines:
  - [Oman Au Shrine][oman_au_shrine]
  
  <!-- INTERNAL LINKS -->
- [oman-au-shrine]: shrines/oman_au_shrine/index.md
+ [oman-au-shrine]: 01-how-to-find.md
