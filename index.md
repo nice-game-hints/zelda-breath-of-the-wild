@@ -1,4 +1,5 @@
 ---
+title: Zelda - Breath of the Wild Guide
 keywords: zeld,guide
 ---
 Welcome to Zelda - Breath of the Wild tips.
