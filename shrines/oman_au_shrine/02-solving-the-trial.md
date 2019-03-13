@@ -7,7 +7,7 @@ keywords: shrine,trial solution
 There is a place to upgrade your Sheikah slate, on the left.
 
 # Hint 2
-You got a rune to your slate that looks like a.. magnet?
+You got a rune to your slate that looks like a... magnet?
 
 # Hint 3
 Now, magnets work with metal, right?
