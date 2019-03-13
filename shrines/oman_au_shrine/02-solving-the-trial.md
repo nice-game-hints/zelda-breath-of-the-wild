@@ -10,7 +10,7 @@ There is a place to upgrade your Sheikah slate, on the left.
 You got a rune to your slate that looks like a.. magnet?
 
 # Hint 3
-Now, magnets work to metal, right?
+Now, magnets work with metal, right?
 
 # Hint 4
 There are two metallic doors on the floor. Activate the slate (LR) and point one of the doors and press (A).
