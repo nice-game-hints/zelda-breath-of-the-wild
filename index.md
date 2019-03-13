@@ -1,5 +1,4 @@
-Welcome to Zelda - Breath of the Wild tips. Select from below.
-
+Welcome to Zelda - Breath of the Wild tips.
 Start from the [Great Plateau][great_plateau]
  
  <!-- INTERNAL LINKS -->
