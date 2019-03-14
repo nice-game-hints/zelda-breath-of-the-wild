@@ -2,6 +2,8 @@
 title: Find the hidden treasure
 keywords: shrine treasure, oman au shrine
 ---
+There is only one hidden treasure in this shrine.
+
 # Hint 1
 Look around when you are in front of the two metallic doors.
 
