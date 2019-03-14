@@ -4,7 +4,7 @@ keywords: shrine,trial solution
 ---
 
 # Hint 1
-There is a place to upgrade your Sheikah slate, on the left.
+There is a place to upgrade your [Sheikah slate][sheikah_slate], on the left.
 
 # Hint 2
 You got a rune to your slate that looks like a... magnet?
@@ -38,3 +38,6 @@ Now you are facing two _metallic_ doors. What to do...
 
 # Hint 11
 Again, with the slate grab one of the doors and open it.
+
+<!-- INTERNAL LINKS -->
+[sheikah_slate]: /01-sheikah-slate/index.md
