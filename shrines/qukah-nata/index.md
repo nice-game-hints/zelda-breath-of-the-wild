@@ -1,5 +1,5 @@
 ---
-title: Qukah Mata Shrine
+title: Qukah Nata Shrine
 keywords: shrine, qukah nata
 ---
 Finding the shrine is the actual puzzle.
